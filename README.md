@@ -6,6 +6,8 @@ We can implement this counter using JK flip-flops.
 # LOGIC DIAGRAM
 ![image](https://github.com/varshasharon/Simulation-project--Digital-Electronics/assets/98278161/94dd9e63-b634-4104-a2f9-2627f8c78416)
 
+
+
 # PROCEDURE
 We have a module called "Mod3Counter" with inputs "clk" (clock) and "reset", and an output "count" of 3 bits representing the counter value.
 
